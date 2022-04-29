@@ -2,7 +2,7 @@ Song Artists Database - SAdB
 A Comprehensive music database
 
 A music db with the ability to search/filter songs by normal details,
-as well as other details less seen in databases, such as: 
+as well as other details less seen in other music databases, such as: 
    - artists performing
    - written/composed by
    - recording label
