@@ -1,3 +1,7 @@
+*plan.md
+.pyc
+*__pycache__
+.idea
 *.pyc
 .*.swp
 *.idea
